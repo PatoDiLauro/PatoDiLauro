@@ -23,7 +23,7 @@ I enjoy building **robust architectures**, solving **complex systems problems**,
 **Unity • C# • Tools • Shaders**
 
 <p align="left">
-  <img src="https://img.itch.zone/aW1nLzI3NDgxNzgucG5n/original/sh26uX.png" width="850" />
+  <img src="https://img.itch.zone/aW1nLzI3NDgxNzgucG5n/original/sh26uX.png" width="450" />
 </p>
 
 A complete Unity game with a full gameplay loop, tools, polished mechanics, shaders and VFX.  
