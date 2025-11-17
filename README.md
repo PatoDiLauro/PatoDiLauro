@@ -22,7 +22,7 @@ I enjoy building **robust architectures**, solving **complex systems problems**,
 ## 🥇 Garomo — Finished Game  
 **Unity • C# • Tools • Shaders**
 
-![Garomo](https://img.itch.zone/aW1nLzI3NDgxNzgucG5n/original/sh26uX.png)
+![Garomo]([https://source.unsplash.com/collection/1127163/900x300](https://img.itch.zone/aW1nLzI3NDgxNzgucG5n/original/sh26uX.png))
 
 A complete Unity game with a full gameplay loop, tools, polished mechanics, shaders and VFX.  
 👉 https://github.com/PatoDiLauro/Garomo
