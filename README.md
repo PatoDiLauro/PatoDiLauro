@@ -51,40 +51,8 @@ A fully published First Person Character Action game made in Unreal Engine that 
 ## 🥉 Engine  
 **C++ • Systems • Rendering • Engine Architecture**
 
-![Engine](https://source.unsplash.com/collection/1127163/900x300)
-
 Low-level engine experimentation: memory management, rendering structures, modules, CMake tooling.  
 👉 https://github.com/PatoDiLauro/Engine
-
----
-
-## ⭐ Plataformero  
-**C++ • Physics • Architecture**
-
-![Plataformero](https://source.unsplash.com/collection/827743/900x300)
-
-Large C++ platformer prototype focusing on physics, collisions, and scalable architecture.  
-👉 https://github.com/PatoDiLauro/Plataformero
-
----
-
-## ⭐ Titos Quest  
-**Unity • C# • ShaderLab**
-
-![TitosQuest](https://source.unsplash.com/collection/483251/900x300)
-
-2D adventure prototype with gameplay loops, UI flows, shaders, and FX.  
-👉 https://github.com/PatoDiLauro/TitosQuest
-
----
-
-## ⭐ ShooterDL  
-**Unity • C# • GLSL**
-
-![ShooterDL](https://source.unsplash.com/collection/502925/900x300)
-
-Shooter prototype with procedural systems, rendering effects and GLSL shaders.  
-👉 https://github.com/PatoDiLauro/ShooterDL
 
 ---
 
@@ -92,8 +60,6 @@ Shooter prototype with procedural systems, rendering effects and GLSL shaders.
 
 ## 🔸 Tome of Light  
 **Unreal Engine • C++ • Gameplay & Systems**
-
-![TomeOfLight](https://source.unsplash.com/collection/3598018/900x300)
 
 👉 Repo: https://github.com/fedepvg/Tome-of-Light
 
