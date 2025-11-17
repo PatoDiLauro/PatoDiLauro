@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Patricio Di Lauro  
-### Game Developer | Gameplay Programmer | Systems & Tools | Unity & C++
+### Software Engineer | Game Developer | Systems & Tools | Unity & C# | Unreal & C++
 
 I'm a game developer focused on **gameplay**, **systems**, and **performance**.  
 I’ve worked on mobile (Play Store), WebGL, PC, and tools development, with experience in Unity, C++, PlayFab, AWS, and CI/CD pipelines.
