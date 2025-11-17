@@ -14,7 +14,7 @@ I enjoy building **robust architectures**, solving **complex systems problems**,
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:patodl2701@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/patricio-di-lauro-4727471a4/)
 [![GitHub](https://img.shields.io/badge/GitHub-PatoDiLauro-black?style=flat-square&logo=github)](https://github.com/PatoDiLauro)
-[![Itch.io](https://img.shields.io/badge/GitHub-PatoDiLauro-black?style=flat-square&logo=itch.io)](PatoDL.itch.io)
+[![Itch.io](https://img.shields.io/badge/GitHub-PatoDiLauro-red?style=flat-square&logo=itch.io)](PatoDL.itch.io)
 
 ---
 
