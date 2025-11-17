@@ -1,69 +1,117 @@
-# 👋 Hi, I'm Patricio Di Lauro  
-### Software Engineer | Game Developer | Systems & Tools | Unity & C# | Unreal & C++
+# 👋 Hi, I'm Patricio Di Lauro
+### Software Engineer • Game Developer • Systems • Unity & C# • Unreal & C++
 
-I'm a game developer focused on **gameplay**, **systems**, and **performance**.  
-I’ve worked on mobile (Play Store), WebGL, PC, and tools development, with experience in Unity, C++, PlayFab, AWS, and CI/CD pipelines.
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:3A7BD5,100:00d2ff&height=180&section=header&text=Patricio%20Di%20Lauro&fontSize=42&fontColor=ffffff)
 
-I enjoy solving complex problems, building robust architectures, and creating efficient gameplay systems that scale.
+I'm a game developer focused on **gameplay**, **systems**, **performance**, and **engine-level work**.  
+I've built games and tools for **mobile (Play Store)**, **WebGL**, **PC**, and contributed to **custom engine development**.
 
----
-
-## 🔥 Featured Projects
-
-### 🚀 Garomo  
-**Unity • C# • Shaders • Python**  
-A complete game featuring multiple systems, custom tools, VFX and polished gameplay.
-
-👉 [View Repository](https://github.com/PatoDiLauro/Garomo)
+I enjoy building **robust architectures**, solving **complex systems problems**, and creating **scalable gameplay features**.
 
 ---
 
-### 🎮 Titos Quest  
-**Unity • C# • ShaderLab**  
-2D adventure game with UI, FX, tool development and gameplay loops.
-
-👉 [View Repository](https://github.com/PatoDiLauro/TitosQuest)
-
----
-
-### 💥 ShooterDL  
-**Unity • C# • GLSL**  
-Shooter prototype with procedural systems, optimized effects and custom shaders.
-
-👉 [View Repository](https://github.com/PatoDiLauro/ShooterDL)
+## 🔗 Socials
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:patodl2701@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/patricio-di-lauro-4727471a4/)
+[![GitHub](https://img.shields.io/badge/GitHub-PatoDiLauro-black?style=flat-square&logo=github)](https://github.com/PatoDiLauro)
 
 ---
 
-### 🏗️ Engine  
-**C++ • Systems • Rendering Architecture**  
-Low-level experimentation project about making a basic game engine, exploring systems, memory, engine structure and tools.
+# 🚀 Featured Projects (Ranked by Impact)
 
-👉 [View Repository](https://github.com/PatoDiLauro/Engine)
+## 🥇 Garomo — Finished Game  
+**Unity • C# • Tools • Shaders**
 
----
+![Garomo](https://source.unsplash.com/collection/190727/900x300)
 
-### 🪜 Plataformero  
-**C++**  
-Large-scale platformer prototype focusing on movement, physics, and engine-level structure.
-
-👉 [View Repository](https://github.com/PatoDiLauro/Plataformero)
+A complete Unity game with a full gameplay loop, tools, polished mechanics, shaders and VFX.  
+👉 https://github.com/PatoDiLauro/Garomo
+👉 [itch.io](https://bulgeoffire.itch.io/garomo)
 
 ---
 
-## 🛠️ Tech Stack
+## 🥈 Rebel Engine — Published Game  
+**Unreal Engine • C++ • Tools • Blueprints**
 
-**Languages:**  
-C#, C++, GLSL, ShaderLab, CMake  
+![RebelEngine](https://source.unsplash.com/collection/189349/900x300)
 
-**Engines / Tools:**  
-Unity, C++ custom engines, SFML, PlayFab, AWS, CI/CD, WebGL  
+A fully published First Person Character Action game made in Unreal Engine that was my group thesis back at university.
 
-**Specialties:**  
-Gameplay Programming • Systems • Optimization • Tools • Architectures  
-VFX & Shaders • Mobile and WebGL performance • Debugging & Profiling  
+**Steam Description (condensed):**  
+*Rebel Engine mixes the stylish combat of a Hack n' Slash with the speed and gunplay of a '90s FPS in a unique, fast-paced action game. Combine gunshots with melee attacks to create devastating combos! Lead the rebellion against the Concrete megacorporation and liberate all of robot-kind!*
+
+👉 Steam: https://store.steampowered.com/app/1977200/Rebel_Engine/
+
+**My contributions:** engine modules, rendering pipeline work, tools programming, gameplay systems, profiling workflows.
 
 ---
 
-## 📫 Contact  
-**Email:** patodl2701@gmail.com  
-**LinkedIn:** [linkedin](https://www.linkedin.com/in/patricio-di-lauro-4727471a4/)
+## 🥉 Engine  
+**C++ • Systems • Rendering • Engine Architecture**
+
+![Engine](https://source.unsplash.com/collection/1127163/900x300)
+
+Low-level engine experimentation: memory management, rendering structures, modules, CMake tooling.  
+👉 https://github.com/PatoDiLauro/Engine
+
+---
+
+## ⭐ Plataformero  
+**C++ • Physics • Architecture**
+
+![Plataformero](https://source.unsplash.com/collection/827743/900x300)
+
+Large C++ platformer prototype focusing on physics, collisions, and scalable architecture.  
+👉 https://github.com/PatoDiLauro/Plataformero
+
+---
+
+## ⭐ Titos Quest  
+**Unity • C# • ShaderLab**
+
+![TitosQuest](https://source.unsplash.com/collection/483251/900x300)
+
+2D adventure prototype with gameplay loops, UI flows, shaders, and FX.  
+👉 https://github.com/PatoDiLauro/TitosQuest
+
+---
+
+## ⭐ ShooterDL  
+**Unity • C# • GLSL**
+
+![ShooterDL](https://source.unsplash.com/collection/502925/900x300)
+
+Shooter prototype with procedural systems, rendering effects and GLSL shaders.  
+👉 https://github.com/PatoDiLauro/ShooterDL
+
+---
+
+# 🤝 Contributions to Shared Projects
+
+## 🔸 Tome of Light  
+**Unreal Engine • C++ • Gameplay & Systems**
+
+![TomeOfLight](https://source.unsplash.com/collection/3598018/900x300)
+
+👉 Repo: https://github.com/fedepvg/Tome-of-Light
+
+**Contributions:** gameplay systems, C++ helpers, architecture refactors, debugging workflows.
+
+---
+
+# 🛠️ Tech Stack
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal](https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+![GLSL](https://img.shields.io/badge/GLSL-5586A4?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![PlayFab](https://img.shields.io/badge/PlayFab-FA6400?style=for-the-badge)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+---
+
+# 📫 Contact  
+📧 **Email:** patodl2701@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/patricio-di-lauro-4727471a4/
