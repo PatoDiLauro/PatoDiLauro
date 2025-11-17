@@ -22,7 +22,7 @@ I enjoy building **robust architectures**, solving **complex systems problems**,
 ## 🥇 Garomo — Finished Game  
 **Unity • C# • Tools • Shaders**
 
-![Garomo](https://source.unsplash.com/collection/190727/900x300)
+![Garomo](https://img.itch.zone/aW1nLzI3NDgxNzgucG5n/original/sh26uX.png)
 
 A complete Unity game with a full gameplay loop, tools, polished mechanics, shaders and VFX.  
 👉 https://github.com/PatoDiLauro/Garomo
@@ -33,7 +33,7 @@ A complete Unity game with a full gameplay loop, tools, polished mechanics, shad
 ## 🥈 Rebel Engine — Published Game  
 **Unreal Engine • C++ • Tools • Blueprints**
 
-![RebelEngine](https://source.unsplash.com/collection/189349/900x300)
+![RebelEngine](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1977200/51f968f50053907e0df55a2e3aa3be811696591d/header.jpg?t=1762467928)
 
 A fully published First Person Character Action game made in Unreal Engine that was my group thesis back at university.
 
