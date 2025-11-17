@@ -14,6 +14,7 @@ I enjoy building **robust architectures**, solving **complex systems problems**,
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:patodl2701@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/patricio-di-lauro-4727471a4/)
 [![GitHub](https://img.shields.io/badge/GitHub-PatoDiLauro-black?style=flat-square&logo=github)](https://github.com/PatoDiLauro)
+[![Itch.io](https://img.shields.io/badge/GitHub-PatoDiLauro-black?style=flat-square&logo=itch.io)](PatoDL.itch.io)
 
 ---
 
@@ -27,7 +28,7 @@ I enjoy building **robust architectures**, solving **complex systems problems**,
 </p>
 
 A complete Unity game with a full gameplay loop, tools, polished mechanics, shaders and VFX.  
-👉 https://github.com/PatoDiLauro/Garomo
+👉 [repo](https://github.com/PatoDiLauro/Garomo)
 👉 [itch.io](https://bulgeoffire.itch.io/garomo)
 
 ---
@@ -42,7 +43,7 @@ A fully published First Person Character Action game made in Unreal Engine that 
 **Steam Description (condensed):**  
 *Rebel Engine mixes the stylish combat of a Hack n' Slash with the speed and gunplay of a '90s FPS in a unique, fast-paced action game. Combine gunshots with melee attacks to create devastating combos! Lead the rebellion against the Concrete megacorporation and liberate all of robot-kind!*
 
-👉 Steam: https://store.steampowered.com/app/1977200/Rebel_Engine/
+👉 [Steam](https://store.steampowered.com/app/1977200/Rebel_Engine/)
 
 **My contributions:** engine modules, rendering pipeline work, tools programming, gameplay systems, profiling workflows.
 
@@ -52,7 +53,7 @@ A fully published First Person Character Action game made in Unreal Engine that 
 **C++ • Systems • Rendering • Engine Architecture**
 
 Low-level engine experimentation: memory management, rendering structures, modules, CMake tooling.  
-👉 https://github.com/PatoDiLauro/Engine
+👉 [repo](https://github.com/PatoDiLauro/Engine)
 
 ---
 
@@ -61,7 +62,7 @@ Low-level engine experimentation: memory management, rendering structures, modul
 ## 🔸 Tome of Light  
 **Unreal Engine • C++ • Gameplay & Systems**
 
-👉 Repo: https://github.com/fedepvg/Tome-of-Light
+👉 [repo](https://github.com/fedepvg/Tome-of-Light)
 
 **Contributions:** gameplay systems, C++ helpers, architecture refactors, debugging workflows.
 
